@@ -1,6 +1,4 @@
-## EUREKA SERVER
-#### Spring Cloud Service Discovery with Netflix Eureka
-
+## Spring Cloud Service Discovery with Netflix Eureka
 
 * **We will be using Spring Boot based Spring Cloud API. We will use Netflix Eureka server for building the service registry server and Eureka clients which will register themselves and discover other services to call REST APIs.**
 
