@@ -19,9 +19,9 @@
 * **School Microservice** – Same type as of Student service – only added feature is that it will invoke Student service with service look up mechanism. We will not use absolute URL of student service to interact with that service.
 
 
-Eureka URL : http://localhost:8761/
-Student Service URL : http://localhost:8098/getStudentDetailsForSchool/abcschool
-School Service URL : http://localhost:9098//getSchoolDetails/abcschool
+* **Eureka URL :**  http://localhost:8761/
+* **Student Service URL :**  http://localhost:8098/getStudentDetailsForSchool/abcschool
+* **School Service URL :**  http://localhost:9098//getSchoolDetails/abcschool
 
 
 #### Things to check if facing any error
